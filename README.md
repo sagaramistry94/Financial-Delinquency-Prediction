@@ -30,6 +30,6 @@ NumberOfTime60-89DaysPastDueNotWorse - Number of times borrower has been 60-89 d
 
 NumberOfDependents - Number of dependents in family excluding themselves
 
-# Evaluation Metric :
+# Evaluation Metric
 
 The evaluation metric for this project is Recall score.
